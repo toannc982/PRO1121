@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/iTTTT"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/title_gifts" />
+
+    <item
+        android:id="@+id/iTTUD"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/title_cart" />
+
+    <item
+        android:id="@+id/iDX"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/title_profile" />
+
+</menu>
